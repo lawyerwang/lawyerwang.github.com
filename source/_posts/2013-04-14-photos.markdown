@@ -1,0 +1,9 @@
+---
+layout: post
+title: "法律援助申请流程"
+date: 2013-04-14 21:01
+comments: true
+categories: 
+---
+
+{% img /photos/flowchart.png 500 600 法律援助申请流程 %}
