@@ -4,7 +4,7 @@
   <title><![CDATA[河南省周口市法律援助中心]]></title>
   <link href="http://lawyerwang.github.com/atom.xml" rel="self"/>
   <link href="http://lawyerwang.github.com/"/>
-  <updated>2013-04-14T20:56:59+08:00</updated>
+  <updated>2013-04-14T21:38:29+08:00</updated>
   <id>http://lawyerwang.github.com/</id>
   <author>
     <name><![CDATA[王律师]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[法律援助申请流程]]></title>
+    <link href="http://lawyerwang.github.com/blog/2013/04/14/photos/"/>
+    <updated>2013-04-14T21:01:00+08:00</updated>
+    <id>http://lawyerwang.github.com/blog/2013/04/14/photos</id>
+    <content type="html"><![CDATA[<p><img src="http://lawyerwang.github.com/photos/flowchart.png" width="500" height="600" title="法律援助申请流程" ></p>
+]]></content>
+  </entry>
   
 </feed>
