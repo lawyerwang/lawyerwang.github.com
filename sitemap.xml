@@ -2,22 +2,26 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://lawyerwang.github.com/about/</loc>
-        <lastmod>2013-01-19T11:03:57+08:00</lastmod>
+        <lastmod>2013-04-14T15:35:59+08:00</lastmod>
     </url>
     <url>
         <loc>http://lawyerwang.github.com/blog/archives/</loc>
-        <lastmod>2013-01-19T11:03:57+08:00</lastmod>
+        <lastmod>2013-04-14T15:35:59+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://lawyerwang.github.com/downloads/</loc>
+        <lastmod>2013-04-14T20:40:51+08:00</lastmod>
     </url>
     <url>
         <loc>http://lawyerwang.github.com/</loc>
-        <lastmod>2013-01-19T11:03:57+08:00</lastmod>
+        <lastmod>2013-04-14T15:35:59+08:00</lastmod>
     </url>
     <url>
         <loc>http://lawyerwang.github.com/links/</loc>
-        <lastmod>2013-01-19T11:03:57+08:00</lastmod>
+        <lastmod>2013-04-14T15:35:59+08:00</lastmod>
     </url>
     <url>
         <loc>http://lawyerwang.github.com/policy/</loc>
-        <lastmod>2013-01-19T11:03:57+08:00</lastmod>
+        <lastmod>2013-04-14T15:35:59+08:00</lastmod>
     </url>
 </urlset>
