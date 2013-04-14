@@ -4,7 +4,7 @@
   <title><![CDATA[河南省周口市法律援助中心]]></title>
   <link href="http://lawyerwang.github.com/atom.xml" rel="self"/>
   <link href="http://lawyerwang.github.com/"/>
-  <updated>2013-04-14T21:38:29+08:00</updated>
+  <updated>2013-04-14T21:50:54+08:00</updated>
   <id>http://lawyerwang.github.com/</id>
   <author>
     <name><![CDATA[王律师]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[联系我们]]></title>
+    <link href="http://lawyerwang.github.com/blog/2013/04/14/contact/"/>
+    <updated>2013-04-14T21:44:00+08:00</updated>
+    <id>http://lawyerwang.github.com/blog/2013/04/14/contact</id>
+    <content type="html"><![CDATA[<ul>
+<li>联系人：王律师</li>
+<li>联系电话：18939412348</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[法律援助申请流程]]></title>
